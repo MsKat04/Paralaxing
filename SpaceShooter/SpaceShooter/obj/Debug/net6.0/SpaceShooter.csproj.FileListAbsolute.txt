@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\питон\SpaceShooter\SpaceShooter\obj\Debug\net6.0\SpaceShooter.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\питон\SpaceShooter\SpaceShooter\obj\Debug\net6.0\SpaceShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\питон\SpaceShooter\SpaceShooter\obj\Debug\net6.0\SpaceShooter.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\питон\SpaceShooter\SpaceShooter\obj\Debug\net6.0\SpaceShooter.AssemblyInfo.cs
+C:\Users\Asus\Desktop\питон\SpaceShooter\SpaceShooter\obj\Debug\net6.0\SpaceShooter.csproj.CoreCompileInputs.cache
